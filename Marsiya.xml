@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p>جب رن میں سر بلند علی کا علم ہوا</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Rekhta Foundation</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <head>
+            <bibl>
+            <title>جب رن میں سر بلند علی کا علم ہوا</title>
+               <author>میر انیس</author>
+            </bibl>
+            </head>
+         
+         <div type="poetry">
+            
+            <lg type="stanza">
+               
+               <l><hi rend="bold">جب رن میں سر بلند علی کا علم ہوا</hi></l>
+               <lb/>
+               <l>1</l><lb/>
+               <l>جب رن میں سر بلند علی کا علم ہوا</l>
+               <l>فوجِ خدا پہ سایۂ ابرِ کرم ہوا</l>
+               <l>چرخ زبر جدی پے تسلیم خم ہوا</l>
+               <l>پنجے پہ سات بار تصدق حشم ہوا</l><lb/>
+               <l>دیکھا نہ تھا کبھی جو علم اس نمود کا</l>
+               <l>دونوں طرف کی فوج میں غل تھا درود ک</l><lb/>
+               <l>2</l><lb/>
+               <l>وہ شان اس علم کی وہ عباس کا جلال</l>
+               <l>نخلِ زمردی کے تلے تھا علی کا لال</l>
+               <l>پرچم پہ جان دیتی تھیں پریوں کا تھا یہ حال</l>
+               <l>غل تھا کہ دوشِ حور پہ بکھرے ہوئے ہیں بال</l><lb/>
+               <l>ہر لہر آبدار تھی کوثر کی موج سے</l>
+               <l>طوبیٰ بھی دب گیا تھا پھریرے کی اوج سے</l><lb/>               
+               <l>3</l><lb/>
+               <l>تھا پنجتن کا نور جو پنجے میں جلوہ گر</l>
+               <l>اعمیٰ کی پتلیوں میں بھی تھا روشنی کا گھر</l>
+               <l>ذرے نثار کرتے تھے اٹھ اٹھ کے اپنا زر</l>
+               <l>تکتے تھے فوق سے تو ملک تخت سے بشر</l><lb/>
+               <l>اللہ ری چمک علمِ بوتراب کی</l>
+               <l>تارِ نظر بنی تھی کرن آفتاب کی</l><lb/>
+               <l>4</l><lb/>
+               <l>قربان احتشام علمدار نام ور</l>
+               <l>رخ پر جلالت شہ مرداں تھی سر بسر</l>
+               <l>چہرہ تو آفتاب سا اور شیر کی نظر</l>
+               <l>قبضے میں تیغ بر میں زرہ دوش پر سپر</l><lb/>
+               <l>چھایا تھا رعب لشکرِ ابنِ زیادؔ پر</l>
+               <l>غل تھا چڑھے ہیں شیر الٰہی جہاد پر</l><lb/>
+               <l>5</l><lb/>
+               <l>وہ اوج وہ جلال وہ اقبال وہ حشم</l>
+               <l>وہ نور وہ شکوہ وہ توقیر وہ کرم</l>
+               <l>پنجے کی وہ چمک وہ سر افرازیِ علم</l>
+               <l>گرتی تھی برق فوجِ مخالف پہ دم بہ دم</l><lb/>
+               <l>کیا رفعتِ نشانِ سعادت نشان تھی</l>
+               <l>سائے میں جس نشان کے طوبیٰ کی شان تھی</l><lb/>
+            </lg>
+                        </div>
+      </body>
+  </text>
+</TEI>

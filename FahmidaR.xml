@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>
+               
+               Four Walls and a Black Veil
+               
+            </title>
+            
+         </titleStmt>
+         
+         <extent>8 pages</extent>
+         
+         <publicationStmt>
+            
+            <publisher>
+               
+               Saniya Irfan; PhD scholar (Department of Humanities and Social Sciences), IIT Delhi
+               
+            </publisher>
+            
+            <pubPlace>
+               
+               IIT Delhi, Hauz Khas, New Delhi
+               
+            </pubPlace>
+            
+            <date>
+               
+               30th December 2022</date>
+            
+            <availability>
+               
+               <p>The PDF version of this poetry collection was downloaded from Internet Archive</p>
+               
+            </availability>
+            
+         </publicationStmt>
+         
+         <sourceDesc>
+            
+            <biblFull>
+               
+               <titleStmt>
+                  
+                  <title>
+                     
+                     Four Walls and a Black Veil
+                     
+                  </title>
+                  
+                  <author>It's a poetry collection of Fahmida Riaz translated from Urdu to English by various translators, with a foreword by Aamer Hussein</author>
+                  
+               </titleStmt>
+               
+               <extent>8 pages</extent>
+               
+               <publicationStmt>
+                  
+                  <publisher>IIT Delhi</publisher>
+                  
+                  <pubPlace>Pakistan</pubPlace>
+                  
+                  <date>2004</date>
+                  
+               </publicationStmt>
+               
+            </biblFull>
+            
+         </sourceDesc>
+         
+      </fileDesc>
+      
+      <encodingDesc>
+         
+         <projectDesc>
+            
+            <p>
+               This project is a sample encoding file for personal collection</p>
+            
+         </projectDesc>
+         
+         <editorialDecl><p>All spellings and punctuations are same as the original PDF</p>
+            
+         </editorialDecl>
+         
+      </encodingDesc>
+      
+      <!-- <revisionDesc>
+        <change when="date" who="#name">The final section of the Encoding Description is the Revision Description,an optional record of changes
+        made to your text. You do not need to add anything now. If you are using an XML file provided by 18thConnect.org, these
+        will be a list of changes already made that you should include. Otherwise, you should consider recording both the
+        changes and the individuals who performed the work to make them to prevent their labor from becoming invisible.</change>
+        </revisionDesc> -->
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage facs="FR.png">
+            <titlePart type="main"><hi rend="large"><hi rend="italics"><title>Four Walls and a Black
+                        Veil</title><lb/></hi></hi></titlePart>
+            <titlePart type="sub">Poetry from Pakistan</titlePart>
+            <docAuthor><hi rend="large">Fahmida Riaz</hi></docAuthor>
+            <epigraph>
+               <p>Born in <placeName>Meerut</placeName>, <country>India</country>, Fahmida Riaz is
+                  among the front rank of Urdu poets. From the outset she refused to be typecast as
+                  a woman poet and conform to what are generally regarded as the confines of
+                  'proper' literary and creative traditions of feminine poetry. In her choice of
+                  themes, diction, allusion, and similes she broke out of the inhibitions imposed on
+                  her gender. This was evident from the contents of her first collection of verse,
+                     <hi rend="italic">Patthar Ki Zaban</hi> (published in 1967). With the
+                  publication of her second collection, <hi rend="italic">Badan Dareeda</hi>, she
+                  emerged as a full-fledged iconoclast. The poem, <hi rend="italic">Badan
+                     Dareeda</hi>, which carried the same title as the collection, can be regarded
+                  as something of a landmark, putting her in the same category as lsmat Chughtai who
+                  wrote the short story <hi rend="italic">Lihaf</hi>. Fahmida Riaz used her
+                  femininity as a weapon to expose the prudishness of the male-oriented traditions
+                  of Urdu poetry. She has since published four more collections of her verse <hi
+                     rend="italic">Dhoop</hi>, <hi rend="italic">Kya Tum Pura Chand Na
+                  Dekhogay</hi>, <hi rend="italic">Hamrakab and Aadmi Ki Zindigi</hi>. Fahmida Riaz
+                  is also the author of several short stories and novels in Urdu: <hi rend="italic"
+                     >Godavari</hi>, based on her Indian experience, and <hi rend="italic">Zinda
+                     Bahar Lane</hi> based on Bangladesh.</p>
+               <p>Fahmida Riaz is also an unrelenting social critic and has been active in several
+                  human rights movements. She was among the writer who campaigned against General
+                  Ziaul Haq's military rule and the execution of Z.A. Bhutto, and had to suffer the
+                  wrath of the authorities and a period of self-exile. She has travelled widely and
+                  lectured at universities and cultural forums in England and the USA. Fahmida Riaz
+                  was given the Himmett-Hellman award by Human Rights Watch, <placeName>New
+                     York</placeName>, in <date>1997</date></p>
+            </epigraph>
+            <docImprint>
+               <publisher>Oxford University Press</publisher>
+               <pubPlace>Pakistan</pubPlace>
+               <docDate>2004</docDate>
+            </docImprint>
+         </titlePage>
+         <div type="toc"/>
+         <div type="preface"/>
+      </front>
+      <body>
+         <div type="poetry">
+            <head>
+               <bibl>
+                  <title>Poetry from Pakistan</title><lb/>
+                  <title>Urdu Poems with English Translations</title><lb/>
+                  <hi rend="italics"><title>Four Walls and a Black Veil</title><lb/></hi>
+                  <author>Fahmida Riaz</author><lb/>
+               </bibl>
+            </head>
+            <l>Foreword</l>
+            <lb/>
+            <l>Fahmida Riaz: Songs of Experience</l>
+            <lb/>
+            <l><name ref="#AamerHussein">Aamer Hussein</name></l>
+            <!--How to add link to a webpage here -->
+            <lb/>
+            <p>In her foreword to <hi rend="italics">Patthar ki Zaban</hi>, her first collection of
+               poems, Fahmida Riaz told her readers that she never had written, and never would
+               write, until a poem compelled her to give it a form; she had not attempted to write
+               ghazals, as she would not make any compromises for the sake of rhythm or rhyme; and
+               she foresaw herself writing for only three or four years more, as after that she
+               would not have anything left to say. The year was <date>1966</date>, and Fahmida -
+               who was barely twenty when she wrote these words - was writing from Government Girls
+               Hostel, in <placeName>Hyderabad</placeName>, <placeName>Sindh</placeName> where she
+               had, until then, spent her life.</p>
+            <lb/>
+            <p>In her foreword to <hi rend="italics">Patthar ki Zaban</hi>, her first collection of
+               poems, Fahmida Riaz told her readers that she never had written, and never would
+               write, until a poem compelled her to give it a form; she had not attempted to write
+               ghazals, as she would not make any compromises for the sake of rhythm or rhyme; and
+               she foresaw herself writing for only three or four years more, as after that she
+               would not have anything left to say. The year was <date>1966</date>, and Fahmida -
+               who was barely twenty when she wrote these words - was writing from Government Girls
+               Hostel, in <placeName>Hyderabad</placeName>, <placeName>Sindh</placeName> where she
+               had, until then, spent her life two full-length works in English: a controversial
+               critical study of Pakistani literature, and an as yet unpublished novel).</p>
+            <lb/>
+            <p>But we first return to the years in between and to Fahmida's first collection of
+               poems. The beauty of these early poems - including the title poem and <hi
+                  rend="italics">'The Soft Fragrance of My Jasmine'</hi> - is unquestionable. Not
+               only are their subject matter and their refusal to conform to the conventions of Urdu
+               verse exceptional, their imagery is graceful, their syntax pure, their effect
+               haunting and musical. But perhaps the reader is still unprepared for the power of <hi
+                  rend="italics">'Badan Darida'</hi>, the volume that followed. We do have, in
+               fiction, the example of Ismat Chughtai who in <hi rend="italics">Terhi Lakeer</hi>
+               <date>(1944)</date> foregrounded a woman's experience with often shocking frankness;
+               but to accomplish it in verse, to tum raw experience into exquisite poems without
+               compromising either experience or poetry, is a measure of Fahmida' s groundbreaking
+               achievement not just in Urdu poetry but in the poetry of the world.</p>
+            <lb/>
+            <p>By then she had married and moved for some years to <placeName>London</placeName>,
+               where one imagines she must have encountered the literature and art of other
+               languages and cultures, and probably been exposed to the emerging currents of
+               feminist thought. In <placeName>London</placeName> she had also become a mother. She
+               then returned in the <date>1970s</date> to a very different life in
+                  <placeName>Pakistan</placeName> and settled in <placeName>Karachi</placeName>,
+               where before she remarried she was a divorced working mother. Desire, motherhood,
+               married love, menstruation, taboos, social constraints, cultural restrictions - all
+               find their way into Fahmida's poems of those years, in unexpected and stirring
+               patterns of intertwined boldness and subtlety.</p>
+            <lb/>
+            <p>Poems such as <hi rend="italics">'The Laughter of a Woman'</hi> and <hi
+                  rend="italics">'She is a Woman</hi> Impure' celebrate femininity in ways that
+               French feminist theorists such as Julia Kristeva, Helene Cixous and Luce Irigaray
+               were to do. Just as Chughtai prefigured by several years Simone de Beauvoir's
+               theoretical configurations in The Second Sex, so, too, Fahmida wrote fearlessly about
+               blood, milk and the waters of birth before her western contemporaries began to
+               formulate their theories of women's writing as grounded in bodily experience, and
+               most certaini: oefore she could have been exposed to their writings.</p>
+            <lb/>
+            <p>What comes across most vividly, though, is the visionary grace and the indomitable
+               spirit of a poet who is not only arguably Pakistan's leading woman writer, but also
+               one of the half-dozen most distinguished Urdu writers of the past three decades. To
+               attempt to do full justice to her multiple talents in the few pages of this foreword
+               is as impossible a task as it would be to do her work full justice in translation: we
+               can only content ourselves with projected shadows of the real thing. There is a
+               remarkable continuity, though, between Fahmida's early foreword and the verses of one
+               of her more recent poems:</p>
+            <lb/>
+            <l>She always said what she had to say,</l>
+            <lb/>
+            <l>And for her life she had no regrets.</l>
+            <lb/>
+            <l><name type="place">London</name>, <date>Janurary 2004></date></l>
+            <pb n="1"/>
+            <l><hi rend="caps">ACKNOWLEDGEMENT</hi></l>
+            <lb/>
+            <p>I am deeply indebted to Salman Tarik Kureshi who read my poems and reviewed the
+               English translations. His advice and suggestions have enormously improved the quality
+               of these renditions.</p>
+            <pb n="2"/>
+            <l><hi rend="caps">TRANSLATORS</hi></l>
+
+            <p><hi rend="bold">PATRICIA L. SHARPE</hi> holds a doctorate in American Literature. She
+               has studied Hindi at <name type="university">Delhi University</name> and has
+               published translations of several Hindi short stories. A collection of her poetry
+               titled The Deadmen and Other Poems was published by Writers' Workshop in <name
+                  type="place">Kolkata</name> in <date>2001</date>. Several other volumes are in
+               preparation. As an American foreign service officer and journalist, Patricia has
+               worked in many areas of the world, but <name type="place">South Asia</name> is the
+               second home of her heart, where as a senior Fulbright scholar she taught American
+               Literature at <name type="university">Punjab University</name> in <name type="place"
+                  >Lahore.</name></p>
+            <p><hi rend="bold">RUKHSANA AHMAD</hi> is an author and playwright and taught English
+               Literature at the <name type="university">University of Karachi</name> before moving
+               to <name type="place">England</name> where she now lives and works.</p>
+            <p><hi rend="bold">BAIDAR BAKHT</hi> has translated into English the work of several
+               Urdu poets. He lives in <name type="place">Toronto, Canada.</name></p>
+            <pb n="3"/>
+
+            <div type="poem">
+               <head>
+                  <bibl><title><hi rend="bold">TONGUE OF STONE</hi></title>
+                     <author>Fahmida Riaz</author>
+                  </bibl>
+               </head>
+               <lg type="stanza">
+
+                  <l rend="indent 6"><hi rend="bold">Translated by Patricia L. Sharpe</hi></l>
+                  <l rend="indent 6">This is the lonely mountain</l>
+                  <l rend="indent 6">where we met, these the heights</l>
+                  <l rend="indent 6">where we melted into one</l>
+                  <l rend="indent 6">This is the wind-swept boulder of my pledge,</l>
+                  <l rend="indent 6">stark and desolate.</l>
+                  <lb/>
+                  <l rend="indent 6">For an age now</l>
+                  <l rend="indent 6">I have clung to this stone,</l>
+                  <l rend="indent 6">my dress rent and flapping in the wild wind, your breath
+                     tangled in my torn shawl.</l>
+                  <l rend="indent 6">Balancing, trembling, I embrace this keen-edged rock</l>
+                  <l rend="indent 6">It has pierced my breast so deep, my lifeblood crimsons</l>
+                  <l rend="indent 6">the rock around me.</l>
+                  <l rend="indent 6">This long age I have clung here. I send a soaring bird</l>
+                  <l rend="indent 6">with my message for you</l>
+                  <l rend="indent 6">Come and look.</l>
+                  <l rend="indent 6">You will be delighted. The cinders and gravel have turned to
+                     rubies, they gleam! A rose blossoms from the rock.</l>
+               </lg>
+               <fw type="sig"><pb n="4"/></fw>
+            </div>
+
+            <div type="poem">
+               <head>
+                  <bibl>
+                     <title>SURAH-E-YASEEN<note>1. Surah-e-Yaseen: It is a chapter of the Quran that is
+                        recited to soothe the agony of death. This surah is read out to the dying. The
+                        title of this poem hints at entering into the unknown.</note></title>
+                     <author>Fahmida Riaz</author>
+                  </bibl>
+               </head>
+               <lg type="stanza">
+
+                  <l><hi rend="bold">Translated by Rukhsana Ahmad</hi></l>
+                  <lb/>
+                  <l>Late at night, this eerie silence!</l>
+                  <l>In this dimly dark pathway,</l>
+                  <l>With hurriedly advancing footsteps, I'm a lone woman.</l>
+                  <l> For a long time now I have been hearing the sound of footsteps following me.
+                     Home!</l>
+                  <l>My home!</l>
+                  <l>How do I get to my home?</l>
+                  <l>With parched throat and a sinking heart I think Perhaps I have forgotten my
+                     way,</l>
+                  <l>this way is not my Way,</l>
+                  <l>all the alleyways are marked here</l>
+                  <l>this alley has no name</l>
+                  <l>and for miles and miles, holding their breath</l>
+                  <l>all these houses, are unfamiliar</l>
+                  <l>There! Even the fragmented yellow moon</l>
+                  <l>has drowned in the dark leaves</l>
+                  <l>Now there is nothing</l>
+                  <l>Except in my mouth,</l>
+                  <l>heavy with fear and paralysed, my tongue.</l>
+                  <l>Or rising upwards, through the soles of my
+                        feet, suffusing in each and every pore of my body, certain
+                     dampness.</l>
+               </lg>
+               <pb n="5"/>
+            </div>
+
+            <div type="poem">
+               <head>
+                  <bibl>
+                     <title>AQLEEMA<note>
+Aqleema: In the Islamic legend, Aqleema was the sister of Abel and Cain who both wanted to marry her. God decided to resolve the dispute by asking them to bring their offerings. He accepted Abel's offering, a fat lamb and gave Aqleema's hand to him. Aqleema's preference never figured in His decision.
+                     </note></title>
+                     <author>Fahmida Riaz</author>
+                  </bibl>
+               </head>
+               <lg type="stanza">
+
+                  <l><hi rend="bold">Translated by Rukhsana Ahmad</hi></l>
+                  <lb/>
+                  <l>Aqleema</l>
+                  <l>Who is the sister of Cain and Abel Born of the same mother</l>
+                  <l>But she is different.</l>
+                  <l>Different between her thighs</l>
+                  <l>And in the bulge of her breasts Different in her gut</l>
+                  <l>And inside her womb</l>
+                  <l>Why is the fate of all of these</l>
+                  <l>The sacrifice of a fatted Iamb?</l>
+                  <l>Imprisoned by her own body Burning in the scalding sun She stands on a
+                     hilltop</l>
+                  <l>Like a mark etched on stone Look at this mark carefully Above the long thighs
+                     Above the high breasts Above the tangled womb Aqleema has a head too</l>
+                  <l>Let God speak to Aqleema sometime And ask her something.</l>
+               </lg>
+               <pb n="6"/>
+            </div>
+
+            <div type="poem">
+               <head>
+                  <bibl>
+                     <title>SEARCH WARRANT<note>The Interrogator and Search Warrant: Both the poems were written during Zia's
+                        regime when I was frequently subjected to police interrogation and house
+                        search.</note></title>
+                     <author>Fahmida Riaz</author>
+                  </bibl>
+               </head>
+               <lg type="stanza">
+                  <l><hi rend="bold">Translated by Rukhsana Ahmad</hi></l>
+                  <lb/>
+                  <l>The interrogator:</l>
+                  <l>'Look here Bibi, here is the Search Warrant;</l>
+                  <l>The contingents are with me, but I left them round the comer I thought, I can
+                     manage on my own.</l>
+                  <l>We are looking for a piece of writing.</l>
+                  <l>What's the point in making a scene?</l>
+                  <l>Fetch it yourself.</l>
+                  <l>Or, else, where it lies, hidden in the house,</l>
+                  <l>Show us, without a fuss'</l>
+                  <l>Never have I seen my house in this light</l>
+                  <l>I can hear a heartbeat throb in its very walls</l>
+                  <l>Blood drips from the veins of stones and steel</l>
+                  <l>Warm breaths, wakeful eyes, parted lips surround me</l>
+                  <l>Repeat their whisper to me once again</l>
+                  <l>Of the promised eternal bond with my country My four walls, dear land, nestle
+                     in your arms The few moments of refuge I had, I owe you. Countless cellars
+                     arise before my eyes Countless possibilities open their doors for me Beneath my
+                     feet opens the tunnel of my hopes ! All seven colours of life glowing on its
+                     walls.</l>
+                  <l>New words will be inscribed now on the walls of the city 0 passing moment</l>
+                  <l>I swear by your desecrated honour Red is the dust around my house Beyond</l>
+                  <l>this window blooms a red flower </l>
+                  <l>All these tribulations over a book Hidden in my</l>
+                  <l>past? </l>
+                  <l>Look beyond the curtains instead At my dreams of the future </l>
+               </lg>
+               <pb n="7"/>
+            </div>
+
+            <div type="poem">
+               <head>
+                  <bibl>
+                     <title>THE INTERROGATER</title>
+                     <author>Fahmida Riaz</author>
+                  </bibl>
+               </head>
+               <lg type="stanza">
+                  <l><hi rend="bold">Translated by Rukhsana Ahmad</hi></l>
+                  <lb/>
+                  <l>The Interrogator is waiting What should be our statement?</l>
+                  <l>How life has suffered</l>
+                  <l>It is hard to reveal</l>
+                  <l>What the heart has endured Impossible to recount.</l>
+                  <l>Here is my statement then:</l>
+                  <l>Take note then, this is all true.</l>
+                  <l>All the allegations are true</l>
+                  <l>My crime is proven</l>
+                  <l>What I did though, was too little</l>
+                  <l>That is my only regret</l>
+                  <l>I hope I may have another chance</l>
+                  <l>I owed more than I have paid as yet</l>
+                  <l>To all that, add this too</l>
+                  <l>So long as I breathe</l>
+                  <l>I shall do it again</l>
+                  <l>If possible I shall do it better</l>
+                  <l>We shall write that word again</l>
+                  <l>To make every dictator equipped with his armoury Tremble upon reading that
+                     word</l>
+                  <l>We shall play that tune again</l>
+                  <l>To make every victim of oppression,</l>
+                  <l>With bands of folded hands.</l>
+                  <l>Dance to its rhythm.</l>
+               </lg>
+               <pb n="8"/>
+            </div>
+            <div type="notes">
+               <l><hi rend="bold">Notes</hi></l>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
